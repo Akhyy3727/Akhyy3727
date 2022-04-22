@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhyy3727&label=Profile%20views&color=0e75b6&style=flat" alt="akhyy3727" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+- 🔭 Fondateur & Développeur de SantorinaRP [https://discord.gg/6ZkkUDmG2q](https://discord.gg/6ZkkUDmG2q)
+
+- 📫 Un projet ? contacter moi via discord **Akhyy#3727**
+
+<h3 align="left">Me contacter:</h3>
 <p align="left">
 <a href="https://discord.gg/Akhyy#3727" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Akhyy#3727" height="30" width="40" /></a>
 </p>
