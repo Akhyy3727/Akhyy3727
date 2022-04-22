@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhyy3727&label=Profile%20views&color=0e75b6&style=flat" alt="akhyy3727" /> </p>
 
-- 🔭 Fondateur & Développeur de SantorinaRP [https://discord.gg/6ZkkUDmG2q](https://discord.gg/6ZkkUDmG2q)
+- 🔭 Fondateur & Développeur de SantorinaRP : [https://discord.gg/6ZkkUDmG2q](https://discord.gg/6ZkkUDmG2q)
 
 - 📫 Un projet ? contacter moi via discord **Akhyy#3727**
 
