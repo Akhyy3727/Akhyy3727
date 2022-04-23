@@ -6,7 +6,7 @@
 ### <div align="center">I'm Akhyy, a freelance developer 👨‍💻 working remotely since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on [SantorinaRP](https://discord.gg/6ZkkUDmG2q)  
+- 🔭 I’m currently working on [Santorina](https://github.com/Santorina)  
   
 
 - 🌱 I’m currently learning php and css  
