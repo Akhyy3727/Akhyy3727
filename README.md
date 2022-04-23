@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-<h3 align="center">I'm a student Developer !</h3>
+### <div align="center">I'm Akhyy, a freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhyy3727&label=Profile%20views&color=0e75b6&style=flat" alt="akhyy3727" /> </p>
 
